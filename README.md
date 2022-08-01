@@ -4,7 +4,7 @@ A File zipper project based on Huffman Coding,  a lossless, bottom-up compressio
 
 Steps for compressing and Decompressing : 
 
-<img src="https://user-images.githubusercontent.com/71961042/182235241-38a20818-693b-42e1-9a01-e34a7bf8c6ea.png" width="500">
+<img src="https://user-images.githubusercontent.com/71961042/182235241-38a20818-693b-42e1-9a01-e34a7bf8c6ea.png" width="700">
 
 Size of inputFile.txt:
 
