@@ -20,7 +20,8 @@ void huffman::traverse(Node* r, string str) {
 
 int huffman::binToDec(string inStr) {
     int res = 0;
-    for (auto c : inStr) {
+    for (int i = 0; i < inStr.size(); i++) {
+	char c = inStr[i];
         res = res * 2 + c - '0';
     }
     return res;
